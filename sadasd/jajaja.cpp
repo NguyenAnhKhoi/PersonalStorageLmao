@@ -1,9 +1,11 @@
 #include <iostream>
 using namespace std;
 
+ 
 void main ()
 {
-	cout <<"Hello world" << endl;
-	system("pause");
+	int a,b;
+	cout << " nhap a, b: " << endl;
+	cin >> a>>b;
 	return;
 }
